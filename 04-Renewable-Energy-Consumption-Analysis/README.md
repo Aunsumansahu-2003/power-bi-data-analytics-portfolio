@@ -66,7 +66,7 @@ Tableau (live connection to Snowflake for visualization)
 ## How to Use
 
 1. Install [Tableau Desktop](https://www.tableau.com/products/desktop) (or use Tableau Public/Reader as applicable).
-2. Open `energy_consumption.twb`.
+2. Open [`energy_consumption.twb`](./energy_consumption.twb).
 3. When prompted, connect to a Snowflake instance with the `RENEWABLE_ENERGY_USAGE` table (matching the schema above), or edit the data source connection to point to your own copy of the dataset.
 4. Explore the worksheets and dashboard to compare usage and savings across countries, regions, and energy sources.
 
