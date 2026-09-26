@@ -18,13 +18,13 @@ The dashboard contains three analysis pages:
 
 Analyzes applicant and financial characteristics using dimensions such as age, credit score, and loan amount.
 
-![Applicant Demographics & Financial Profile](screenshots/Applicant_Demographics_Financial_Profile.png)
+![Applicant Demographics & Financial Profile](screenshots/Applicants_Demographics_and_Financial_profile.png)
 
 ### 2. Financial Risk Metrics
 
 Provides analysis of financial risk indicators, including credit-score ranges and loan-related measures.
 
-![Financial Risk Metrics](screenshots/Financial_Risk_Metrics.png)
+![Financial Risk Metrics](screenshots/Financial_Risk_Matrics.png)
 
 ### 3. Loan Default Overview
 
@@ -51,7 +51,7 @@ Analyzes loan default activity and default rates across available years and appl
 
 ## Project Files
 
-- [Power BI Dashboard](./Loan%20Analysis.pbix)
+- [Power BI Dashboard](./loan.pbix)
 - [Dashboard Screenshots](./screenshots/)
 
 ## Purpose
