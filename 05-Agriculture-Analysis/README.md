@@ -1,12 +1,12 @@
 # 🌾 Agriculture Analysis
 
-A Power BI dashboard project exploring agricultural conditions across **years, seasons, crops, and locations**.
+A Power BI dashboard project analyzing agricultural and environmental indicators across **years, seasons, crops, and locations**.
 
 ## Project Overview
 
-This project analyzes key agricultural indicators to understand how environmental conditions vary across different time periods, crop types, and locations.
+This project uses Power BI to explore how key agricultural conditions and yield vary across different time periods, crop categories, and locations.
 
-The dashboard covers:
+The dashboard contains four analysis pages:
 
 - **Rainfall Analysis** — average rainfall by year, season, crop, and location
 - **Temperature Analysis** — average temperature by year, season, crop, and location
@@ -15,23 +15,29 @@ The dashboard covers:
 
 ## Dashboard Pages
 
-### Rainfall Analysis
-Examines rainfall patterns across years, seasons, crops, and locations.
+### 1. Rainfall Analysis
 
-### Temperature Analysis
-Compares average temperature across time periods, seasons, crop categories, and locations.
+Analyzes average rainfall patterns across years, seasons, crops, and locations.
 
-### Humidity Analysis
-Explores average humidity across years, seasons, crops, and locations.
+![Rainfall Analysis](screenshots/Rainfall_Analysis.png)
 
-### Yield Analysis
+### 2. Temperature Analysis
+
+Compares average temperature across years, seasons, crops, and locations.
+
+![Temperature Analysis](screenshots/Temperature_Analysis.png)
+
+### 3. Humidity Analysis
+
+Analyzes average humidity across years, seasons, crops, and locations.
+
+![Humidity Analysis](screenshots/Humidity_Analysis.png)
+
+### 4. Yield Analysis
+
 Analyzes average agricultural yield across years, seasons, crops, and locations.
 
-## Tools
-
-- Power BI
-- Data Visualization
-- Exploratory Data Analysis
+![Yield Analysis](screenshots/Yield_Analysis.png)
 
 ## Key Analytical Dimensions
 
@@ -40,11 +46,19 @@ Analyzes average agricultural yield across years, seasons, crops, and locations.
 - Crop
 - Location
 
+## Tools
+
+- Power BI
+- Data Visualization
+- Exploratory Data Analysis
+
 ## Project Files
 
-- Power BI dashboard: `Agriculture Analysis.pbix`
-- Dashboard screenshots: `screenshots/`
+- [Power BI Dashboard](./Agriculture%20Analysis.pbix)
+- [Dashboard Screenshots](./screenshots/)
 
 ## Purpose
 
-The project demonstrates the use of Power BI to organize agricultural data into interactive visual analyses and compare patterns across multiple dimensions.
+This project demonstrates the use of Power BI to organize agricultural data into clear visual analyses and compare patterns across multiple dimensions.
+
+It showcases practical dashboard development, exploratory analysis, and business-oriented data visualization using Power BI.
