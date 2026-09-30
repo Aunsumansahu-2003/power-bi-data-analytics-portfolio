@@ -26,8 +26,8 @@ End-to-end analytics project analyzing renewable energy adoption, household cons
 
 📂 [View Project](./04-Renewable-Energy-Consumption-Analysis/)
 
-### 5. Agriculture Analysis
-Power BI analysis covering rainfall, temperature, humidity, and agricultural yield across available agricultural dimensions.
+### 5. Agriculture Analysis — AWS + Snowflake + Power BI
+End-to-end analytics project analyzing rainfall, temperature, humidity, and agricultural yield across years, seasons, crops, and locations. Built a data pipeline using **AWS S3 → AWS IAM → Snowflake → Power BI**, with SQL used for data loading and preparation.
 
 📂 [View Project](./05-Agriculture-Analysis/)
 
@@ -54,6 +54,7 @@ Power BI dashboard analyzing average demand, availability, supply shortages, tot
 - SQL
 - Snowflake
 - AWS S3
+- AWS IAM
 - Python
 - Excel
 - Data Modeling
