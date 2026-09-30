@@ -26,6 +26,26 @@ End-to-end analytics project analyzing renewable energy adoption, household cons
 
 📂 [View Project](./04-Renewable-Energy-Consumption-Analysis/)
 
+### 5. Agriculture Analysis
+Power BI analysis covering rainfall, temperature, humidity, and agricultural yield across available agricultural dimensions.
+
+📂 [View Project](./05-Agriculture-Analysis/)
+
+### 6. Loan Analysis
+Power BI analysis of applicant financial profiles, credit risk indicators, loan amounts, and loan default patterns.
+
+📂 [View Project](./06-Loan-Analysis/)
+
+### 7. Men's T-shirt Analysis
+Power BI brand-level analysis comparing men's T-shirt brands by average discount, profit, sales, and product variety.
+
+📂 [View Project](./07-Mens-Tshirt-Analysis/)
+
+### 8. Demand & Availability Analysis
+Power BI dashboard analyzing average demand, availability, supply shortages, total profit, total loss, and average daily loss.
+
+📂 [View Project](./08-Demand-Availability-Analysis/)
+
 ## Tools & Skills
 
 - Power BI
