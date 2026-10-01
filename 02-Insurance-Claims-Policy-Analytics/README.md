@@ -118,8 +118,9 @@ These filters allow users to investigate individual policies, claims, and custom
 
 | File | Description |
 | :--- | :--- |
-| [`Insurance_Claims_Policy_Analytics.pbix`](./Insurance_Claims_Policy_Analytics.pbix) | Power BI report containing the dashboard, data model, calculations, and visualizations |
-| [`screenshots/insurance-dashboard.png`](./screenshots/insurance-dashboard.png) | Screenshot of the completed dashboard |
+| [02-Insurance-Claims-Policy-Analytics.pbix](./02-Insurance-Claims-Policy-Analytics.pbix) | Power BI report containing the dashboard, data model, calculations, and visualizations |
+| [screenshots/insurance-dashboard.png](./screenshots/insurance-dashboard.png) | Screenshot of the completed dashboard |
+
 ---
 
 ## 🚀 How to Use
